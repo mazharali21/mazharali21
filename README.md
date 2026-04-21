@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Mazhar Ali 👋
 
-<!--
-**mazharali21/mazharali21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React.js | Tailwind CSS | JavaScript
+🚀 Passionate about building modern, responsive web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🌱 Currently improving my skills in full-stack development (MERN)
+* ⚡ Strong in React, Tailwind CSS, Redux
+* 🛠️ Basic experience with Node.js, Express, MongoDB
+* 🎯 Goal: Become a professional full-stack developer
+
+---
+
+## 🚀 Tech Stack
+
+* 💡 Frontend: React.js, Tailwind CSS, HTML, CSS, JavaScript
+* ⚙️ Backend: Node.js, Express.js
+* 🗄️ Database: MongoDB
+* 🔧 Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 📝 MERN ToDo App
+
+A full-stack task management app with real-time updates and persistent storage.
+👉 https://github.com/mazharali21/MernStack-ToDo-App
+
+### 🔍 Keyword Research Tool
+
+React + Node.js app that fetches real-time keyword suggestions using an API.
+👉 https://github.com/mazharali21/keywordPro
+
+### 🚗 Car Rental System
+
+Angular-based web app for browsing and booking cars.
+👉 https://github.com/mazharali21/Car-Rental-System
+👉 https://github.com/mazharali21/Car-Rental-System-api
+---
+
+## 📊 GitHub Stats
+
+![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazharali21\&show_icons=true\&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/mazhar-ali21
+* Email: sayedmazharali12@gmail.com
+
+---
+
+⭐️ From Mazhar Ali
