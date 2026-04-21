@@ -1,6 +1,7 @@
 # Hi, I'm Mazhar Ali 👋
 
 💻 Frontend Developer | React.js | Tailwind CSS | JavaScript
+
 🚀 Passionate about building modern, responsive web applications
 
 ---
