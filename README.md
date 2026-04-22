@@ -26,6 +26,11 @@
 
 ## 📌 Featured Projects
 
+### 📝 Resume Builder 
+A full-stack Resume builder application with live preview and multiple templates
+👉 https://github.com/mazharali21/Resume-Maker-FE
+   https://github.com/MohsinRahman8017/Resume_Maker_BE 
+
 ### 📝 MERN ToDo App
 
 A full-stack task management app with real-time updates and persistent storage.
@@ -39,8 +44,8 @@ React + Node.js app that fetches real-time keyword suggestions using an API.
 ### 🚗 Car Rental System
 
 Angular-based web app for browsing and booking cars.
-👉 https://github.com/mazharali21/Car-Rental-System
-👉 https://github.com/mazharali21/Car-Rental-System-api
+👉  https://github.com/mazharali21/Car-Rental-System
+    https://github.com/mazharali21/Car-Rental-System-api
 ---
 
 ## 📊 GitHub Stats
